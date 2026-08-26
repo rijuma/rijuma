@@ -9,6 +9,7 @@ I'm Marcos, an enthusiastic developer. I've been working as a web developer sinc
 
 ## Side projects
 
+- [Hubbify](https://github.com/rijuma/hubbify) - A simple toolkit to set up and maintain VPS servers hosting docker-compose projects behind a single reverse proxy. The same proxy, config, and workflow locally and in a remote environment.
 - [ctxhelpr](https://github.com/rijuma/ctxhelpr) - An open source local MCP server for coding agents that indexes repositories, helping build context for tasks spending less tokens and time.
 - [ts-coding-challenges](https://github.com/rijuma/ts-coding-challenges) - A small collection of typescript challenges. There is a lot out there, I just wanted to make a collection of my own with the ones I've found more interesting.
 
